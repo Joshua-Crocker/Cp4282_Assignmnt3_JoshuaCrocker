@@ -1,0 +1,38 @@
+{
+    "sportsLeagues": [
+        {
+            "name": "NHL",
+            "yearEstablished": 1917,
+            "commissioner": "Gary Bettman",
+            "championshipTrophy": "Stanley Cup",
+            "lastWinner": "Vegas Golden Knights",
+            "teamMVP": "Jonathan Marchessault",
+            "teamCountry": "United States",
+            "teamMVPCountry": "Canada",
+            "imageIndex": 0
+        },
+        {
+            "name": "MLB",
+            "yearEstablished": 1876,
+            "commissioner": "Robert D. Manfred, Jr",
+            "championshipTrophy": "Commissioner's Trophy",
+            "lastWinner": "Texas Rangers",
+            "teamMVP": "Corey Seager",
+            "teamCountry": "United States",
+            "teamMVPCountry": "Canada",
+            "imageIndex": 1
+        },
+        {
+            "name": "NFL",
+            "yearEstablished": 1920,
+            "commissioner": "Roger Goodell",
+            "championshipTrophy": "Vince Lombardi Trophy",
+            "lastWinner": "Kansas City Chiefs",
+            "teamMVP": "Patrick Mahomes",
+            "teamCountry": "United States",
+            "teamMVPCountry": "United States",
+            "imageIndex": 2
+        }
+    ]
+}
+
